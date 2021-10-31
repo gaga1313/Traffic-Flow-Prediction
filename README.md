@@ -1,8 +1,9 @@
 # Traffic-Flow-Prediction
 Current traffic flow prediction model is trained to predict traffic flow between Matunga and Wadala Mumbai. It covers 37 streets and predicts congestion level with an accuracy of 97% in Vidyalankar Institute of Technology neighbourhood.
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 Below are the name of 37 Streets:
-    "Adenwala Rd": 0,
-    "Adenwala Rd and Nathalal Parekh Marg": 1,
+    "Adenwala Rd": 0,__
+    "Adenwala Rd and Nathalal Parekh Marg": 1,<br />
     "Antop Hill Rd and Shaikh Misree Marg": 2,
     "Balaram Babu Khedekar Marg": 3,
     "Bharni Naka Rd/Sir Pochkhan Wala Rd/Vidyalankar College Rd": 4,
