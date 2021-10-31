@@ -1,6 +1,8 @@
 # Traffic-Flow-Prediction
 Current traffic flow prediction model is trained to predict traffic flow between Matunga and Wadala Mumbai. It covers 37 streets and predicts congestion level with an accuracy of 97% in Vidyalankar Institute of Technology neighbourhood.
+
 ![alt text](https://github.com/gaga1313/Traffic-Flow-Prediction/blob/main/street%20map.jpeg?raw=true)
+
 Below are the name of 37 Streets:
     "Adenwala Rd": 0<br />
     "Adenwala Rd and Nathalal Parekh Marg": 1,<br />
@@ -39,6 +41,8 @@ Below are the name of 37 Streets:
     "Tilak Rd": 34<br />
     "Tilak Rd and Firdausi Rd": 35<br />
     "Tilak Rd/Tilak Bridge/Tilak Flyover": 36<br />
+
+This is a Flask API which is further deployed on Heroku, at https://traffic-flow-predictor.herokuapp.com/ . This API was used in the backend of the Traffic Flow Predictor App in Flutter, at https://github.com/VedantBandre/Traffic-Flow-Predictor-App.git .
 
 
 
